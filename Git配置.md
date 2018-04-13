@@ -2,8 +2,8 @@
 
 1.   :octocat:
 
-```
-   #初始化Git
+```shell
+   #初始化Git
    git init
 
    #配置GitHub用户名和邮箱（注册GitHub的邮箱）
